@@ -74,4 +74,4 @@ the data.
 
 ### 5. Blog Website
 
-A blog has been published in this [site](https://mohancr97.github.io/Starbucks_CapstoneProject/)
+A blog has been published in this [site](https://nithinre.github.io/Capstone_Star-Bucks/)
