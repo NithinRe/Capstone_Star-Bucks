@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 # Starbucks Capstone Challenge
 
 ## Introduction
